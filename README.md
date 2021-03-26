@@ -12,4 +12,4 @@ Default output format [None]: json <br />
 For detailed information: https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html
 
 ======Run Scripts======  <br />
-Ex:  python s3enc.py
+python s3enc.py
