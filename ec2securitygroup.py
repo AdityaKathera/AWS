@@ -2,7 +2,6 @@
 import boto3
 from botocore.exceptions import ClientError
 from datetime import timezone, date, datetime, timedelta
-result = []
 def scan():
 
     client = boto3.client('ec2')
