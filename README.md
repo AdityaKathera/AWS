@@ -3,7 +3,7 @@ AWS Scripts
 
 Configure AWS Credentials:
 
-aws configure
+aws configure <br />
 AWS Access Key ID [None]: "ACCESS_KEYID"
 AWS Secret Access Key [None]: "SECRET_KEYID"
 Default region name [None]: "region"
